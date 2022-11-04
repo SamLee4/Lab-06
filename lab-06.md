@@ -11,7 +11,6 @@ library(tidyverse)
 ### Exercise 1
 
 ``` r
-# add code here
 ```
 
 ### Exercise 2
