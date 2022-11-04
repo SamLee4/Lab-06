@@ -1,6 +1,6 @@
 ---
 title: "Lab 06 - Conveying the right message through visualisation"
-author: [TEAM NAME]
+author: "Group 13.1"
 output: github_document
 ---
 
